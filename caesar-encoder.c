@@ -32,3 +32,15 @@ int main(int argc, string argv[])
     }
     printf("\n");
 }
+
+bool only_digits(string key)
+{
+    for (int i = 0; i < strlen(key); i++)
+    {
+        if (!isdigit(key[i]))
+        {
+            return false;
+        }
+    }
+    return true;
+}
