@@ -44,3 +44,21 @@ bool only_digits(string key)
     }
     return true;
 }
+
+char rotate(char text, int key)
+{
+    if (isupper(text))
+    {
+        char uletter = (char) ((((int) text - (int) 'A' + key) % 26) + (int) 'A');
+        return uletter;
+    }
+    else if (islower(text))
+    {
+        char lletter = (char) ((((int) text - (int) 'a' + key) % 26) + (int) 'a');
+        return lletter;
+    }
+    else
+    {
+        return text;
+    }
+}
