@@ -15,7 +15,7 @@ This project is a simple Caesar Cipher Encoder written in C. It allows users to 
    ```
 2. Navigate to the project directory:
    ```bash
-   cd caesar-cipher-encoder
+   cd caesar-encoder
    ```
 3. Compile the code:
    ```bash
