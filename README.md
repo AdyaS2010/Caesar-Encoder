@@ -11,7 +11,7 @@ This project is a simple Caesar Cipher Encoder written in C. It allows users to 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/caesar-cipher-encoder.git
+   git clone https://github.com/yourusername/Caesar-Encoder.git
    ```
 2. Navigate to the project directory:
    ```bash
