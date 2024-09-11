@@ -38,6 +38,10 @@ Plaintext: hello
 ciphertext: khoor
 ```
 
+![image](https://github.com/user-attachments/assets/16362a0b-5504-4d33-b5a9-cddb9addf489)
+*Can you guess what the shift is?
+*It's 16!*
+
 ## Contributing
 1. Fork the repository.
 2. Create a new branch:
